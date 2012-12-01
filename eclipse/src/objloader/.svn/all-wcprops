@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/20/trunk/lumarca/src/objloader
+END
+SModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/lumarca/src/objloader/SModel.java
+END
+ModelSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/lumarca/src/objloader/ModelSegment.java
+END
+class.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/trunk/lumarca/src/objloader/class.txt
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/lumarca/src/objloader/Debug.java
+END
+ModelElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3/trunk/lumarca/src/objloader/ModelElement.java
+END
+OBJModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/20/trunk/lumarca/src/objloader/OBJModel.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/trunk/lumarca/src/objloader/Group.java
+END
+Vertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3/trunk/lumarca/src/objloader/Vertex.java
+END
+Material.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/trunk/lumarca/src/objloader/Material.java
+END
